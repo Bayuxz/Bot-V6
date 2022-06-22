@@ -1,32 +1,32 @@
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
+global.owner = ['6289506312533'] 
 global.mods = [] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc'
-global.numberowner = '6285822347348'
-global.instagram = 'https://instagram.com/sahrulwara_____'
-global.github = 'https://github.com/sahrull11'
-global.dana = '085822347348'
-global.pulsa = '085822347348,083843192208'
-global.gopay = ''
+global.nameowner = 'BayXZ'
+global.numberowner = '6289506312533'
+global.discord = 'https://discord.gg/YC4ZvtRQ'
+global.instagram = 'Gapunya Banh'
+global.dana = '-'
+global.pulsa = '-'
+global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
-global.gc = 'https://chat.whatsapp.com/Hs5rHr27xu49VRLgdliMfR'
-global.web = 'https://youtu.be/jOhhY7ef_qM' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.namebot = 'SyinXD'
+global.gc = 'https://chat.whatsapp.com/CaQwP28Mt8Z2149bvILy2U'
+global.web = 'https://discord.gg/YC4ZvtRQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = '-'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❚█══ArullBotz‖MD‖'
+global.wm = '•SyinXD•'
 global.watermark = wm
-global.wm2 = '                     「 ArullBotzMD あ⁩ 」'
-global.wm3 = '⫹⫺ ❚█══ArullBotz‖MD‖'
+global.wm2 = '                     「 SyinXD バユ⁩ 」'
+global.wm3 = '•SyinXD•'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg'
@@ -36,12 +36,12 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*Stiker sedang dibuat*'
-global.packname = 'Sticker By'
-global.author = '© ArullOfc'
+global.packname = 'By |SyinXD|'
+global.author = '© Bayxz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
-    // nama: 'https://website'
+    // nama: '-'
   hardianto: 'https://hardianto-chan.herokuapp.com',
   rey: 'https://server-api-rey.herokuapp.com',
   jonaz: 'https://jonaz-api-v2.herokuapp.com',
